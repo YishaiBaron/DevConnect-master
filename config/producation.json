@@ -1,5 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://brad123:brad123@devconnector-ebvi1.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtsecret": "mysecrettoken",
-    "githubToken":"f50f767388fe2be995561150fe7ed3afc1455124"
-} 
